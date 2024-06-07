@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Self-Supervised Learning for Graph Dataset Condensation
 This is the Pytorch implementation of KDD'24 work: "Self-Supervised Learning for Graph Dataset Condensation".
 
@@ -17,3 +18,6 @@ The code of attention-based neural network kernel is in "antk.py", you can chang
 
 ### SGDC-CL
 We also implement the code for initial design, SGDC-CL, in "UnspervisedGM/" folder.
+=======
+# SGDC
+>>>>>>> 5a9f731773d482d387812cdcf61ac32b01292ce4
